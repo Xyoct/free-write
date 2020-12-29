@@ -7,7 +7,7 @@ module.exports = {
         ['link', { rel: 'icon', href: 'http://www.bestlifebestyue.com/static/favicon.ico' }]
     ],
     evergreen: true,
-    repo: 'Happy-Everyday/free-write',
+    repo: 'Xyoct/free-write',
     docsDir: 'docs',
     editLinks: true,
     editLinkText: '帮助我们改进页面内容！',
