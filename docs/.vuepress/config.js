@@ -1,10 +1,10 @@
-// git push -f git@github.com:Happy-Everyday/happy-everyday.github.io.git master
+// git push -f git@github.com:Xyoct/Xyoct.github.io.git master
 
 module.exports = {
     title: 'My Heart, My Words',
     description: '心之所想，笔之所往',
     head: [
-        ['link', { rel: 'icon', href: 'https://www.bestlifebestyue.com/static/favicon.ico' }]
+        ['link', { rel: 'icon', href: 'http://www.bestlifebestyue.com/static/favicon.ico' }]
     ],
     evergreen: true,
     repo: 'Happy-Everyday/free-write',
@@ -17,7 +17,7 @@ module.exports = {
             { text: '后端&协议', link: '/back-http/' },
             { text: '服务器相关', link: '/server-operation/' },
             { text: '工具相关', link: '/tools-about/' },
-            { text: 'Github', link: 'https://github.com/Happy-Everyday/' }
+            { text: 'Github', link: 'https://github.com/Xyoct/' }
         ],
         sidebar: {
             '/front/': [{

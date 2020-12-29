@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "publish": "cd docs/.vuepress/dist && rm -rf .git && sudo git init && sudo git add . && sudo git commit -m 'publish' && sudo git push -f git@github.com:Xyoct/Xyoct.github.io.git master && cd ../../../"
   },
   "repository": {
     "type": "git",
