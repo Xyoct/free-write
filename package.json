@@ -1,0 +1,25 @@
+{
+  "name": "free-write",
+  "version": "1.0.0",
+  "description": "日常随性之作，心之所想，笔之所往。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Happy-Everyday/free-write.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Happy-Everyday/free-write/issues"
+  },
+  "homepage": "https://github.com/Happy-Everyday/free-write#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.46"
+  },
+  "dependencies": {}
+}
